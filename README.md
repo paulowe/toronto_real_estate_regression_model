@@ -13,3 +13,16 @@ What to type of real estate to analyze?
 5. Partnerships
 
 Model Risk-Reward of Investment oppotunities
+
+**Datasets**
+
+1. Toronto Real Estate Board (TREB) dataset: This dataset includes historical transaction data for properties in the Greater Toronto Area, including sale prices, address, and property characteristics.
+
+2. Canadian Census data: The census provides information on demographic and socio-economic characteristics of the population, which can be used as features in a predictive model.
+
+3. Toronto Open Data: This website provides access to various datasets related to the City of Toronto, including information on property assessments, zoning, and infrastructure.
+
+4. Weather data: Temperature, precipitation, and other weather data can affect housing prices and may be useful features in a predictive model.
+
+5. Google Maps API: This API can be used to extract information about the location of a property, such as distance to amenities and public transportation.
+
